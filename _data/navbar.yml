@@ -1,11 +1,23 @@
-Acerca de: "about"
-Proyectos:
-  - Bibliografía: "bibliography"
-  - Líneas de Tiempo: "timeline"
-  - Infografías: "images"
-  - Arquitectura teórica: "theory"
-  - Recursos Educativos Abiertos: "oer"
-  - Recursos de Internet: "resources"
-  - Videos: "videos"
-Cómo lo hicimos: "como" 
-Créditos: "credits"
+- title: Inicio
+  url: /inicio/
+
+- title: Licencias CC
+  url: /licencias-cc/
+
+- title: Atribución (TASL)
+  url: /atribucion-tasl/
+
+- title: Excepciones y limitaciones
+  url: /excepciones-y-limitaciones/
+
+- title: LFDA México
+  url: /lfda-mexico/
+
+- title: Casos prácticos
+  url: /casos-practicos/
+
+- title: Elegir licencia
+  url: /como-elegir-licencia/
+
+- title: Rúbrica
+  url: /rubrica/
