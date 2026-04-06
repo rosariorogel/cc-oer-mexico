@@ -1,9 +1,10 @@
 Inicio: "inicio"
 
-Licencias Creative Commons: "licencias-cc"
-Atribución TASL: "atribucion-tasl"
-Excepciones y limitaciones: "excepciones-y-limitaciones"
-LFDA México: "lfda-mexico"
-Casos prácticos: "casos-practicos"
-Cómo elegir licencia: "como-elegir-licencia"
-Rúbrica: "rubrica"
+Ruta de aprendizaje:
+  - Comprender las licencias Creative Commons: "licencias-cc"
+  - Aprender a atribuir con TASL: "atribucion-tasl"
+  - Reconocer excepciones y limitaciones: "excepciones-y-limitaciones"
+  - Contextualizar en la LFDA mexicana: "lfda-mexico"
+  - Elegir una licencia adecuada: "como-elegir-licencia"
+  - Aplicar en casos prácticos: "casos-practicos"
+  - Autoevaluar el aprendizaje: "rubrica"
