@@ -7,7 +7,7 @@ permalink: /lfda-mexico/
 <div style="width:100%; height:220px; overflow:hidden; margin: 0 0 40px 0; border-radius:12px;">
   <img src="{{ '/assets/img/Rob_MX.png' | relative_url }}"
        alt="Contexto legal mexicano y derecho de autor"
-       style="width:100%; height:100%; object-fit:cover; object-position:center center;">
+       style="width:100%; height:100%; object-fit:cover; object-position:center 65%;">
 </div>
 
 Las licencias Creative Commons no operan en el vacío. Su uso se inserta dentro de marcos legales específicos, que varían según el país.
@@ -27,9 +27,9 @@ Aunque las licencias Creative Commons ofrecen una forma flexible de compartir co
 
 Esto significa que:
 
-- no sustituyen la legislación nacional  
-- operan dentro de sus límites  
-- y deben interpretarse en función de ella  
+- No sustituyen la legislación nacional  
+- Operan dentro de sus límites  
+- Y deben interpretarse en función de ella  
 
 En otras palabras:  
 las licencias no anulan la ley —la presuponen.
@@ -38,10 +38,10 @@ las licencias no anulan la ley —la presuponen.
 
 La LFDA establece, entre otros aspectos:
 
-- quién es titular de los derechos de una obra  
-- qué tipos de derechos existen (morales y patrimoniales)  
-- cuánto tiempo duran estos derechos  
-- en qué casos pueden usarse obras sin autorización  
+- Quién es titular de los derechos de una obra  
+- Qué tipos de derechos existen (morales y patrimoniales)  
+- Cuánto tiempo duran estos derechos  
+- En qué casos pueden usarse obras sin autorización  
 
 Este último punto conecta directamente con las **excepciones y limitaciones** vistas en la sección anterior.
 
@@ -62,14 +62,14 @@ Las licencias Creative Commons operan principalmente sobre los **derechos patrim
 
 En México, los derechos morales son:
 
-- **irrenunciables**  
-- **inalienables**  
-- **perpetuos**  
+- **Irrenunciables**  
+- **Inalienables**  
+- **Perpetuos**  
 
 Esto implica que, incluso cuando una obra tiene una licencia abierta:
 
-👉 la atribución sigue siendo obligatoria  
-👉 no es una “opción”, es una exigencia legal  
+👉 La atribución sigue siendo obligatoria  
+👉 No es una “opción”, es una exigencia legal  
 
 ## Un error frecuente
 
@@ -77,8 +77,8 @@ A veces se asume que aplicar una licencia Creative Commons significa “liberar 
 
 Sin embargo:
 
-> ninguna licencia elimina los derechos morales  
-> ni permite usos que la ley no contempla  
+> Ninguna licencia elimina los derechos morales  
+> Ni permite usos que la ley no contempla  
 
 Por ejemplo, una obra no puede ser utilizada de forma que afecte la integridad o reputación de la persona autora.
 
@@ -86,8 +86,8 @@ Por ejemplo, una obra no puede ser utilizada de forma que afecte la integridad o
 
 La relación puede entenderse así:
 
-- la **LFDA establece el marco legal general**  
-- las **licencias CC permiten flexibilizar el uso dentro de ese marco**  
+- La **LFDA establece el marco legal general**  
+- Las **licencias CC permiten flexibilizar el uso dentro de ese marco**  
 
 No son sistemas opuestos, sino complementarios.
 
@@ -95,9 +95,9 @@ No son sistemas opuestos, sino complementarios.
 
 Comprender esta relación permite:
 
-- evitar interpretaciones incorrectas sobre el uso de obras  
-- diseñar estrategias de apertura más informadas  
-- reconocer que la apertura no implica ausencia de regulación  
+- Evitar interpretaciones incorrectas sobre el uso de obras  
+- Diseñar estrategias de apertura más informadas  
+- Reconocer que la apertura no implica ausencia de regulación  
 
 En el contexto mexicano, la ciencia abierta no se construye fuera de la ley, sino en diálogo con ella.
 
