@@ -98,3 +98,6 @@ include:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+  custom_css:
+  - /assets/css/custom.css
