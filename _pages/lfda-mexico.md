@@ -4,15 +4,15 @@ title: "Contextualizar en la legislación mexicana: la LFDA"
 permalink: /lfda-mexico/
 ---
 
-<div style="width:100%; height:220px; overflow:hidden; margin: 0 0 40px 0; border-radius:12px;">
+<div style="width:100%; height:230px; overflow:hidden; margin: 0 0 40px 0; border-radius:12px;">
   <img src="{{ '/assets/img/Rob_MX.png' | relative_url }}"
        alt="Contexto legal mexicano y derecho de autor"
-       style="width:100%; height:100%; object-fit:cover; object-position:center 65%;">
+       style="width:100%; height:100%; object-fit:cover; object-position:center 70%;">
 </div>
 
 Las licencias Creative Commons no operan en el vacío. Su uso se inserta dentro de marcos legales específicos, que varían según el país.
 
-En México, el uso y protección de las obras está regulado por la **Ley Federal del Derecho de Autor (LFDA)**.
+En México, el uso y protección de las obras está regulado por la **Ley Federal del Derecho de Autor** (en lo sucesivo LFDA).
 
 <p style="font-size:0.95em; color:#555; margin: 10px 0 25px 0;">
   Consulta la ley vigente: 
