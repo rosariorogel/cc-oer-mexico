@@ -1,20 +1,9 @@
-- title: "Inicio"
-  url: ""
+Inicio: "inicio"
 
-- title: "Licencias Creative Commons"
-  url: "/licencias/"
-
-- title: "Atribución (TASL)"
-  url: "/atribucion/"
-
-- title: "Excepciones y limitaciones"
-  url: "/excepciones/"
-
-- title: "Casos prácticos"
-  url: "/casos/"
-
-- title: "Cómo elegir licencia"
-  url: "/eleccion-licencia/"
-
-- title: "Acerca de"
-  url: "/acerca/"
+Licencias Creative Commons: "licencias-cc"
+Atribución TASL: "atribucion-tasl"
+Excepciones y limitaciones: "excepciones-y-limitaciones"
+LFDA México: "lfda-mexico"
+Casos prácticos: "casos-practicos"
+Cómo elegir licencia: "como-elegir-licencia"
+Rúbrica: "rubrica"
