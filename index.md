@@ -2,6 +2,7 @@
 layout: home
 title: El conocimiento en abierto
 subtitle: Guía práctica sobre licencias Creative Commons para estudiantes de Ciencias Sociales y Humanidades en México
+cover-img: "assets/img/CC FloriGuga.jpg"
 ---
 
 Este recurso educativo abierto ofrece una guía clara y contextualizada para comprender el uso de licencias Creative Commons en el trabajo académico.
