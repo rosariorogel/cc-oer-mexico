@@ -47,6 +47,47 @@ No basta con saber que una obra tiene licencia CC. Es necesario entender **qué 
 
 En contextos educativos, esta última condición (ND) puede ser especialmente problemática, ya que limita prácticas fundamentales como traducir, actualizar o contextualizar materiales.
 
+## Caso práctico: ¿puedo usar esta imagen en mi tesis?
+
+Imagina la siguiente situación:
+
+Una estudiante de la carrera de Sociología está preparando su tesis. Encuentra en internet una imagen perfecta para ilustrar uno de sus argumentos. La imagen tiene licencia **CC BY-NC**.
+
+La estudiante piensa:  
+“Perfecto, solo tengo que citarla”.
+
+Pero aquí aparece la primera duda:  
+¿una tesis universitaria cuenta como uso no comercial?
+
+En muchos casos, sí. Sin embargo, la situación se vuelve más compleja si esa tesis:
+- Se publica en un repositorio institucional —que actualmente es el caso en la mayoría de las universidades.  
+- Se convierte en un artículo, o en parte de un artículo  
+- O, quizá, forma parte de un libro editado por una editorial académica  
+
+En esos escenarios, el uso podría interpretarse como comercial o, al menos, no estrictamente *no comercial*.
+
+Ahora agrega otra variable:  
+la estudiante quiere **recortar la imagen y añadir anotaciones**.
+
+Esto ya no es solo uso —es una **adaptación**.
+
+Como la licencia es **CC BY-NC** (y no incluye ND), la adaptación está permitida. Pero sigue siendo necesario:
+- Dar **atribución adecuada**  
+- Mantener el uso dentro de lo no comercial  
+- Indicar que se realizaron modificaciones  
+
+Este ejemplo muestra algo importante: No basta con identificar la licencia, hay que interpretar **qué implica en el contexto real de uso**.
+
+## ¿Qué podría hacer la estudiante?
+
+Tiene varias opciones:
+- Usar la imagen respetando la licencia CC BY-NC  
+- Buscar una alternativa con licencia más abierta (por ejemplo, **CC BY**)  
+- Verificar si su uso podría estar cubierto por una excepción legal (como cita o uso académico)  
+- O, en caso de duda, optar por materiales en dominio público o con menos restricciones  
+
+En la práctica, tomar estas decisiones forma parte de la **alfabetización en derechos de autor y licencias abiertas**.
+
 ## Más allá de las licencias: entender el ecosistema
 
 Comprender las licencias Creative Commons también implica reconocer que no operan en el vacío. Forman parte de un ecosistema más amplio que incluye:
