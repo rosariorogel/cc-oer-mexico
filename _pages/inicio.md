@@ -7,14 +7,14 @@ permalink: /inicio/
 En la actualidad, gran parte de los materiales académicos y educativos circulan en entornos digitales. Sin embargo, su uso, adaptación y redistribución siguen estando limitados por marcos legales que no siempre son claros para quienes investigan o enseñan.
 
 <div style="text-align:center; margin: 20px 0 30px 0;">
-  <img src="/assets/img/Rob_Home.jpeg"
+  <img src="{{ '/assets/img/Rob_Home.jpeg' | relative_url }}"
        alt="Creative Commons y conocimiento abierto"
-       style="width:100%; max-width:1000px; display:block; margin:auto; border-radius:8px;">
-</div>
+       style="width:80%; max-width:700px; display:block; margin:auto; border-radius:8px;">
+</div>  
 
 Las licencias Creative Commons ofrecen una alternativa concreta para compartir conocimiento de manera legal, flexible y abierta. No obstante, su comprensión y aplicación práctica suelen generar dudas, especialmente en contextos académicos de habla hispana.
 
-Este Recurso Educativo Abierto (REA) está dirigido a estudiantes y personas investigadoras en Ciencias Sociales y Humanidades en México, y tiene como objetivo acompañar el uso crítico y práctico de las licencias abiertas en la producción académica.
+Este Recurso **Educativo Abierto (REA)** está dirigido a estudiantes y personas investigadoras en Ciencias Sociales y Humanidades en México, y tiene como objetivo acompañar el uso crítico y práctico de las licencias abiertas en la producción académica.
 
 A lo largo de este sitio encontrarás explicaciones claras, ejemplos aplicados y herramientas para decidir —con conocimiento— cómo usar, adaptar y compartir materiales académicos.
 
