@@ -17,6 +17,8 @@ A lo largo del sitio encontrarás explicaciones accesibles sobre:
 
 Este material está dirigido principalmente a estudiantes de pregrado y posgrado, así como a personas docentes interesadas en integrar prácticas de acceso abierto en su trabajo.
 
+> **Este recurso puede ser reutilizado, adaptado y redistribuido con atribución, salvo en aquellos contenidos específicos donde se indique algo diferente.**
+
 ---
 
 📌 *Nota:* Este sitio forma parte de un proyecto en desarrollo orientado a fortalecer la alfabetización en cultura digital y ciencia abierta en el contexto latinoamericano.
