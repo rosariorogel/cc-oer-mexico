@@ -4,21 +4,21 @@ title: "El conocimiento en abierto: guía práctica sobre licencias Creative Com
 permalink: /inicio/
 ---
 
-<div style="width:100%; height:260px; overflow:hidden; margin: 0 0 10px 0; border-radius:12px;">
+<div style="width:100%; height:260px; overflow:hidden; margin: 0 0 5px 0; border-radius:12px;">
   <img src="{{ '/assets/img/Swedish_CC_book.png' | relative_url }}"
        alt="Swedish CC book"
        style="width:100%; height:100%; object-fit:cover; object-position:center 50%;">
 </div>
 
-<p style="font-size:0.75em; color:#888; text-align:center; margin-bottom:40px;">
-  “Swedish CC book” por 
+<p style="font-size:0.75em; color:#888; text-align:center; margin: 0 0 30px 0;">
+  <em>“Swedish CC book”</em> por 
   <a href="https://www.flickr.com/photos/kalexanderson/4998711966/in/album-72157627511672523" target="_blank">
     kalexanderson
   </a>, 
   <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.es" target="_blank">
     CC BY-SA 2.0
   </a>.
-</p>
+</p>  
 
 En la actualidad, gran parte de los materiales académicos y educativos circulan en entornos digitales. Sin embargo, su uso, adaptación y redistribución siguen estando limitados por marcos legales que no siempre son claros para quienes investigan o enseñan.
 
