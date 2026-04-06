@@ -129,3 +129,15 @@ En el contexto de los Recursos Educativos Abiertos, esto refuerza una idea clave
 Atribuir correctamente no es solo cumplir con una licencia. Es una práctica que sostiene la confianza, la trazabilidad y la ética en la producción académica.
 
 En el contexto de la ciencia abierta, atribuir bien no es opcional —es parte del propio ecosistema.
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
+  <a href="{{ '/licencias-cc/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#eeeeee; color:#444; text-decoration:none; border-radius:8px; font-weight:600;">
+    ← Anterior
+  </a>
+
+  <a href="{{ '/excepciones-y-limitaciones/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#f47c20; color:white; text-decoration:none; border-radius:8px; font-weight:600;">
+    Siguiente →
+  </a>
+</div>
