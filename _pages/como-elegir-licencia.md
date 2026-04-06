@@ -7,7 +7,7 @@ permalink: /como-elegir-licencia/
 <div style="width:100%; height:140px; overflow:hidden; margin: 0 0 30px 0; border-radius:8px;">
   <img src="{{ '/assets/img/Friends3.jpeg' | relative_url }}"
        alt="Personas colaborando en torno al conocimiento abierto"
-       style="width:100%; height:100%; object-fit:cover; object-position:center;">
+       style="width:100%; height:100%; object-fit:cover; object-position:50% 40%;">
 </div>
 
 Elegir una licencia Creative Commons no consiste únicamente en seleccionar un ícono o una combinación de letras. Implica tomar una decisión sobre **cómo quieres que circule tu trabajo**, qué usos deseas facilitar y cuáles condiciones consideras importantes para compartirlo de manera abierta y responsable.
@@ -59,6 +59,35 @@ A partir de estas combinaciones surgen las seis licencias:
 - **CC BY-NC-SA**  
 - **CC BY-ND**  
 - **CC BY-NC-ND**
+
+## Compatibilidad entre licencias: qué pasa cuando adaptas una obra
+
+Comprender una licencia Creative Commons no consiste solo en saber si permite compartir o modificar una obra. También implica identificar **bajo qué licencia puede distribuirse una adaptación** cuando se trabaja con materiales previamente licenciados.
+
+Esto es especialmente importante en contextos educativos, donde es frecuente traducir, actualizar o combinar recursos. En esos casos, no todas las licencias son compatibles entre sí.
+
+<div style="text-align:center; margin: 25px 0 10px 0;">
+  <img src="{{ '/assets/img/CC_License_Compatibility_Chart.png' | relative_url }}"
+       alt="Tabla de compatibilidad entre licencias Creative Commons para obras derivadas o adaptadas"
+       style="width:100%; max-width:1000px; display:block; margin:auto; border-radius:6px;">
+</div>
+
+<p style="text-align:center; font-size:0.9em; color:#666; margin-bottom:30px;">
+  Fuente: Creative Commons, sección de preguntas frecuentes sobre adaptación y compatibilidad de licencias.
+  <a href="https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use" target="_blank" rel="noopener noreferrer">
+    Ver recurso original
+  </a>.
+</p>
+
+La tabla muestra qué licencias pueden utilizarse al crear una obra derivada. De su lectura se desprenden tres ideas clave:
+
+- El **dominio público** y **CC0** ofrecen máxima flexibilidad.
+- Las licencias con **ShareAlike (SA)** imponen condiciones de compatibilidad.
+- Las licencias con **NoDerivatives (ND)** bloquean la adaptación.
+
+En términos prácticos, esto evita un error frecuente: pensar que basta con atribuir correctamente una obra para reutilizarla libremente. Cuando hay adaptación, también debe existir **compatibilidad entre licencias**.
+
+Por ello, si tu objetivo es facilitar la reutilización educativa, conviene optar por licencias que mantengan abiertas estas posibilidades.  
 
 ## ¿Cuál es la más abierta?
 
