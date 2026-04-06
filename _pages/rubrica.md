@@ -5,7 +5,7 @@ permalink: /rubrica/
 ---
 
 <div style="width:100%; height:260px; overflow:hidden; margin: 0 0 40px 0; border-radius:12px;">
-  <img src="{{ '/assets/img/Rob_fuego.png' | relative_url }}"
+  <img src="{{ 'assets/img/Astronauta.png' | relative_url }}"
        alt="Autoevaluación del uso de licencias abiertas"
        style="width:100%; height:100%; object-fit:cover; object-position:center 60%;">
 </div>
