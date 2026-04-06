@@ -128,3 +128,12 @@ Este material presenta ejemplos concretos de uso, atribución y toma de decision
 Elegir o usar una licencia Creative Commons no es un acto meramente técnico. Tiene implicaciones sobre cómo circula el conocimiento, quién puede reutilizarlo y bajo qué condiciones.
 
 *En otras palabras: Una licencia no solo protege una obra, también define **las posibilidades de acceso, colaboración y transformación del conocimiento***.
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
+  <span></span>
+
+  <a href="{{ '/atribucion-tasl/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#f47c20; color:white; text-decoration:none; border-radius:8px; font-weight:600;">
+    Siguiente →
+  </a>
+</div>
