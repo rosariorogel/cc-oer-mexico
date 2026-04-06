@@ -28,22 +28,18 @@ no todo lo que se puede usar legalmente está bajo licencia Creative Commons.
 
 Algunos casos comunes incluyen:
 
-- **cita:** uso de fragmentos con fines académicos o críticos  
-- **uso educativo:** en ciertos contextos de enseñanza  
-- **información pública:** documentos oficiales  
-- **dominio público:** obras cuyos derechos han expirado  
+- **Cita:** uso de fragmentos con fines académicos o críticos  
+- **Uso educativo:** en ciertos contextos de enseñanza  
+- **Información pública:** documentos oficiales  
+- **Dominio público:** obras cuyos derechos han expirado  
 
 Estos usos no dependen de la voluntad de la persona autora, sino de lo que establece la legislación.
 
 ## Un error frecuente
 
-Uno de los malentendidos más comunes es pensar que:
+Uno de los malentendidos más comunes es pensar que: > “Si algo está en internet, se puede usar libremente”
 
-> “Si algo está en internet, se puede usar libremente”
-
-o incluso:
-
-> “Si no tiene licencia, no se puede usar”
+O incluso: > “Si no tiene licencia, no se puede usar”
 
 Ambas afirmaciones son incorrectas.
 
@@ -55,9 +51,9 @@ Imagina que estás elaborando un ensayo y necesitas incluir un párrafo de un ar
 
 No necesitas pedir permiso si:
 
-- el fragmento es breve  
-- se utiliza con fines de análisis o discusión  
-- se reconoce adecuadamente la fuente  
+- El fragmento es breve  
+- Se utiliza con fines de análisis o discusión  
+- Se reconoce adecuadamente la fuente  
 
 En este caso, no estás usando una licencia Creative Commons.  
 Estás ejerciendo una **excepción legal: el derecho de cita**.
@@ -66,9 +62,9 @@ Estás ejerciendo una **excepción legal: el derecho de cita**.
 
 Las licencias Creative Commons son especialmente útiles cuando:
 
-- deseas reutilizar obras completas  
-- quieres adaptar o modificar materiales  
-- necesitas redistribuir contenido  
+- Deseas reutilizar obras completas  
+- Quieres adaptar o modificar materiales  
+- Necesitas redistribuir contenido  
 
 En estos casos, las excepciones suelen no ser suficientes.
 
@@ -76,12 +72,11 @@ En estos casos, las excepciones suelen no ser suficientes.
 
 Comprender esta diferencia permite:
 
-- evitar usos indebidos de materiales  
-- no restringir innecesariamente el acceso al conocimiento  
-- tomar decisiones más informadas sobre reutilización  
+- Evitar usos indebidos de materiales  
+- No restringir innecesariamente el acceso al conocimiento  
+- Tomar decisiones más informadas sobre reutilización  
 
-En el contexto de la ciencia abierta, esto es clave:  
-no todo pasa por licencias, pero todo pasa por entender las condiciones de uso.
+En el contexto de la ciencia abierta, esto es clave: no todo pasa por licencias, pero todo pasa por entender las condiciones de uso.
 
 ## Una idea para cerrar
 
