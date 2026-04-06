@@ -5,7 +5,7 @@ permalink: /licencias-cc/
 ---
 
 <div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; margin: 0 0 40px 0; border-radius:12px; background-color:#f5f5f5;">
-  <img src="{{ '/assets/img/Creative_Beauty_at_Creative Commons.jpg' | relative_url }}"
+  <img src="{{ 'assets/img/17.png' | relative_url }}"
        alt="Creative Commons"
        style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
