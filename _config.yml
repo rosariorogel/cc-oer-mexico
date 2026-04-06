@@ -8,35 +8,17 @@ author: "Rosario Rogel-Salazar, Facultad de Ciencias Políticas y Sociales, Univ
 
 # --- Logo --- #
 
-avatar: "/assets/img/CC_Flor.png"
-round-avatar: true
+#avatar: "/assets/img/CC_Flor.png"
+#round-avatar: true
 
 # --- Footer social media links --- #
 
 social-network-links:
-#  email: "someone@example.com"
-#  facebook: deanattali
-#  github: daattali
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  email: "rosariorogel@uaemex.mx"
+  youtube: "@RosarioRogel"
+  linkedin: "https://www.linkedin.com/in/rosariorogel/" 
+  ORCID: "0000-0002-6018-0635"
+  google-scholar: "https://scholar.google.com.mx/citations?user=t5jxiy0AAAAJ&hl=es"
 
 rss-description: "Guía práctica sobre licencias Creative Commons, atribución TASL, excepciones y limitaciones, y elección de licencias abiertas en el contexto mexicano."
 
