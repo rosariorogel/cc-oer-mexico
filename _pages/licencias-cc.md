@@ -74,5 +74,4 @@ Este material presenta ejemplos concretos de uso, atribución y toma de decision
 
 Elegir o usar una licencia Creative Commons no es un acto meramente técnico. Tiene implicaciones sobre cómo circula el conocimiento, quién puede reutilizarlo y bajo qué condiciones.
 
-En otras palabras:  
-Una licencia no solo protege una obra, también define **las posibilidades de acceso, colaboración y transformación del conocimiento**.
+*En otras palabras: Una licencia no solo protege una obra, también define **las posibilidades de acceso, colaboración y transformación del conocimiento***.
