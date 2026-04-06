@@ -4,13 +4,13 @@ title: "Cómo reutilizar este recurso"
 permalink: /reusar-este-recurso/
 ---
 
-<div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; margin: 0 0 10px 0; border-radius:12px; background-color:#f5f5f5;">
+<div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; margin: 0 0 5px 0; border-radius:12px; background-color:#f5f5f5;">
   <img src="{{ '/assets/img/16.png' | relative_url }}"
        alt="The birds of Creative Commons"
        style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
 
-<p style="font-size:0.75em; color:#888; text-align:center; margin-bottom:40px;">
+<p style="font-size:0.75em; color:#888; text-align:center; margin: 0 0 30px 0;">
   <em>“The birds of Creative Commons”</em> por 
   <a href="https://www.flickr.com/photos/kalexanderson/5367362360/in/album-72157627511672523" target="_blank">
     kalexanderson
