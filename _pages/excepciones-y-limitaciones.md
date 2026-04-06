@@ -5,7 +5,7 @@ permalink: /excepciones-y-limitaciones/
 ---
 
 <div style="width:100%; height:200px; overflow:hidden; margin: 0 0 35px 0; border-radius:10px;">
-  <img src="{{ '/assets/img/Rob_Library.jpeg' | relative_url }}"
+  <img src="{{ 'assets/img/Amigos.png' | relative_url }}"
        alt="Biblioteca y circulación del conocimiento"
        style="width:100%; height:100%; object-fit:cover; object-position:center 30%;">
 </div>
