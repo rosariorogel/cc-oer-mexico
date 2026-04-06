@@ -57,6 +57,15 @@ Si adaptas este recurso, se recomienda:
 - Indicar la fecha de tu versión adaptada
 - Mantener visibles las referencias a la licencia aplicable
 
+<div style="margin:40px 0 15px 0; text-align:left;">
+  <h2 style="margin-bottom:5px;">
+    Este recurso también es un ejercicio de reutilización abierta
+  </h2>
+  <p style="margin:0; color:#666; font-size:0.95em;">
+    No solo explica las licencias Creative Commons: también aplica sus principios en la práctica.
+  </p>
+</div>  
+
 <div style="margin:50px 0 20px 0; padding:20px; border-radius:10px; background-color:#f9f9f9; border:1px solid #e0e0e0;">
 
   <h3 style="margin-top:0;">Attribution of course content</h3>
