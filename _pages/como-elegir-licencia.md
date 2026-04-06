@@ -129,3 +129,15 @@ Dicho de otro modo: una licencia no solo regula usos; también **abre o cierra p
 Una vez elegida la licencia, el paso siguiente es **aplicarla correctamente**: indicar con claridad cuál es la licencia seleccionada, enlazar al texto legal correspondiente y proporcionar información suficiente para facilitar la atribución.
 
 En la siguiente sección veremos cómo hacerlo de forma clara y correcta.
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
+  <a href="{{ '/lfda-mexico/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#eeeeee; color:#444; text-decoration:none; border-radius:8px; font-weight:600;">
+    ← Anterior
+  </a>
+
+  <a href="{{ '/casos-practicos/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#f47c20; color:white; text-decoration:none; border-radius:8px; font-weight:600;">
+    Siguiente →
+  </a>
+</div>  
