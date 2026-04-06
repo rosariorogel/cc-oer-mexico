@@ -74,6 +74,44 @@ Se integran imágenes de distintas fuentes en un recurso didáctico.
 No todas las licencias Creative Commons permiten los mismos usos.  
 El desconocimiento puede llevar a usos indebidos, incluso si el recurso es “abierto”.
 
+## Caso 3.1: La zona gris — una imagen encontrada en internet para una tesis
+
+Una estudiante de licenciatura encuentra en internet una imagen que parece ideal para su tesis. La imagen circula ampliamente en blogs y presentaciones, pero no muestra una licencia visible ni información clara sobre su autoría.
+
+### La tentación
+
+Pensar algo como esto:
+
+<p style="margin: 10px 0 0 0;">
+  — <span style="font-style: italic; color:#888; letter-spacing:0.2px;">
+    “Si ya está circulando por todos lados, seguro se puede usar”
+  </span>
+</p>
+
+### El problema
+
+Aquí no hay certeza sobre tres aspectos básicos:
+
+- quién creó la imagen  
+- bajo qué condiciones puede reutilizarse  
+- si su uso requeriría autorización o podría apoyarse en alguna excepción legal  
+
+### ¿Qué hacer?
+
+Antes de incorporarla en la tesis, conviene seguir esta secuencia:
+
+1. **buscar la fuente original** de la imagen  
+2. **verificar si tiene licencia** y cuáles son sus condiciones  
+3. **evaluar si el uso se apoya en una excepción legal** o si requiere permiso  
+4. si persiste la duda, **buscar una alternativa con licencia clara o en dominio público**
+
+### ¿Qué se aprende de este caso?
+
+No todo problema de reutilización se resuelve eligiendo una licencia.  
+A veces, el primer paso consiste en reconocer que **no hay información suficiente para reutilizar con seguridad**.
+
+En estos casos, la mejor decisión no siempre es usar el material “porque probablemente no pase nada”, sino optar por recursos cuya procedencia, licencia y condiciones de uso sean verificables.  
+
 ## Caso 4: Publicar un recurso para máxima difusión
 
 Se desea que un recurso educativo tenga el mayor alcance posible.
