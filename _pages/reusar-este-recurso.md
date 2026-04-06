@@ -12,24 +12,21 @@ Salvo que se indique algo diferente en contenidos específicos, este recurso est
 
 ## Qué puedes hacer con este recurso
 
-Bajo la licencia CC BY 4.0, puedes:
-
-- copiar y redistribuir el material en cualquier medio o formato
-- adaptar, transformar y construir a partir del material
-- reutilizarlo con fines académicos, docentes o de divulgación
+Bajo la licencia CC BY 4.0, puedes:  
+- Copiar y redistribuir el material en cualquier medio o formato
+- Adaptar, transformar y construir a partir del material
+- Reutilizarlo con fines académicos, docentes o de divulgación
 
 ## Qué debes hacer
 
-Si reutilizas este recurso, debes:
+Si reutilizas este recurso, debes:  
+- Dar crédito adecuado a la autora
+- Indicar si realizaste cambios
+- Enlazar a la licencia correspondiente
 
-- dar crédito adecuado a la autora
-- indicar si realizaste cambios
-- enlazar a la licencia correspondiente
-
-## Cómo citar o atribuir este recurso
+## Cómo citar o atribuir este recurso  
 
 Una forma recomendada de atribución es la siguiente:
-
 **Rogel-Salazar, Rosario. _El conocimiento en abierto: guía práctica sobre licencias Creative Commons_. Recurso educativo abierto. Licencia CC BY 4.0. Disponible en: https://rosariorogel.net/cc-oer-mexico/**
 
 ## Sobre contenidos específicos
@@ -38,9 +35,8 @@ Algunos materiales incorporados en este sitio pueden tener condiciones particula
 
 ## Recomendación de buenas prácticas
 
-Si adaptas este recurso, se recomienda:
-
-- señalar claramente que hiciste una adaptación
-- conservar la atribución a la versión original
-- indicar la fecha de tu versión adaptada
-- mantener visibles las referencias a la licencia aplicable
+Si adaptas este recurso, se recomienda:  
+- Señalar claramente que hiciste una adaptación
+- Conservar la atribución a la versión original
+- Indicar la fecha de tu versión adaptada
+- Mantener visibles las referencias a la licencia aplicable
