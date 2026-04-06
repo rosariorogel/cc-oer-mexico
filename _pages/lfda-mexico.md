@@ -4,11 +4,11 @@ title: "Contextualizar en la legislación mexicana: la LFDA"
 permalink: /lfda-mexico/
 ---
 
-<div style="width:100%; height:230px; overflow:hidden; margin: 0 0 40px 0; border-radius:12px;">
+<div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; margin: 0 0 40px 0; border-radius:12px; background-color:#f5f5f5;">
   <img src="{{ '/assets/img/Rob_MX.png' | relative_url }}"
        alt="Contexto legal mexicano y derecho de autor"
-       style="width:100%; height:100%; object-fit:cover; object-position:center 60%;">
-</div>
+       style="max-width:100%; max-height:100%; object-fit:contain;">
+</div>  
 
 Las licencias Creative Commons no operan en el vacío. Su uso se inserta dentro de marcos legales específicos, que varían según el país.
 
