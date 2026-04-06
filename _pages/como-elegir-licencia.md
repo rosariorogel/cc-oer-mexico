@@ -116,6 +116,36 @@ Una forma sencilla de elegir consiste en pensar qué quieres permitir:
 - Si además quieres que esas adaptaciones se compartan igual, usa **CC BY-NC-SA**.
 - Si no quieres que tu obra sea modificada, entrarías en el terreno de **CC BY-ND** o **CC BY-NC-ND**, aunque estas opciones son poco recomendables para fines educativos abiertos.
 
+## Guía rápida de decisión
+
+Si necesitas una referencia breve para tomar decisiones, esta síntesis puede ayudarte:
+
+<div style="margin:25px 0; padding:18px; border-radius:10px; background-color:#f8f8f8; border:1px solid #e6e6e6;">
+
+<p style="margin:0 0 12px 0;"><strong>Si quieres máxima circulación y reutilización amplia</strong><br>
+→ usa <strong>CC BY</strong></p>
+
+<p style="margin:0 0 12px 0;"><strong>Si quieres que las adaptaciones mantengan la misma apertura</strong><br>
+→ usa <strong>CC BY-SA</strong></p>
+
+<p style="margin:0 0 12px 0;"><strong>Si deseas restringir usos comerciales, pero permitir adaptación</strong><br>
+→ considera <strong>CC BY-NC</strong></p>
+
+<p style="margin:0 0 12px 0;"><strong>Si además quieres que las adaptaciones se compartan bajo la misma licencia</strong><br>
+→ considera <strong>CC BY-NC-SA</strong></p>
+
+<p style="margin:0;"><strong>Si no quieres que tu obra sea modificada</strong><br>
+→ entrarías en el terreno de <strong>CC BY-ND</strong> o <strong>CC BY-NC-ND</strong>, aunque estas opciones son poco recomendables para fines educativos abiertos.</p>
+
+</div>
+
+## Antes de decidir, hazte estas dos preguntas
+
+- ¿Quiero que otras personas puedan **adaptar** este recurso?  
+- ¿Quiero que otras personas puedan **reutilizarlo en contextos amplios**, incluso fuera de mi entorno inmediato?
+
+Si la respuesta a ambas preguntas es sí, entonces conviene evitar condiciones que restrinjan innecesariamente la circulación del recurso.  
+
 ## Elegir una licencia no es neutral
 
 Seleccionar una licencia implica tomar postura sobre la circulación del conocimiento. No se trata solo de proteger una obra, sino de decidir **qué tipo de reutilización deseas hacer posible**.
