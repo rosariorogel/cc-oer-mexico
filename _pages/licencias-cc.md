@@ -4,21 +4,21 @@ title: "Comprender las licencias"
 permalink: /licencias-cc/
 ---
 
-<div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; margin: 0 0 10px 0; border-radius:12px; background-color:#f5f5f5;">
+<div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; margin: 0 0 5px 0; border-radius:12px; background-color:#f5f5f5;">
   <img src="{{ 'assets/img/17.png' | relative_url }}"
        alt="Creative Commons"
        style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
 
-<p style="font-size:0.75em; color:#888; text-align:center; margin-bottom:40px;">
-  “CC as in Clone1 & Clone2” por 
+<p style="font-size:0.75em; color:#888; text-align:center; margin: 0 0 30px 0;">
+  <em>“CC as in Clone1 & Clone2”</em> por 
   <a href="https://www.flickr.com/photos/kalexanderson/4941953515/in/album-72157627511672523" target="_blank">
     kalexanderson
   </a>, 
   <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es" target="_blank">
     CC BY-NC-SA 2.0
   </a>.
-</p>
+</p>  
 
 Las licencias Creative Commons (CC) son herramientas legales diseñadas para facilitar el uso, la reutilización y la circulación del conocimiento en entornos digitales. En lugar de restringir el acceso mediante el esquema tradicional de “todos los derechos reservados”, permiten definir de manera explícita **qué usos están permitidos sin necesidad de solicitar autorización previa**.
 
