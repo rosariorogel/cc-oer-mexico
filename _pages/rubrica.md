@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Autoevaluar el uso de licencias abiertas: rúbrica de apoyo"
-permalink: /autoevaluacion/
+permalink: /rubrica/
 ---
 
 <div style="width:100%; height:260px; overflow:hidden; margin: 0 0 40px 0; border-radius:12px;">
