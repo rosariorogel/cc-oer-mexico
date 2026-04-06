@@ -1,3 +1,7 @@
+# CC OER México
+
+A Spanish-language Open Educational Resource on Creative Commons licensing and attribution practices, contextualized for Mexico.
+
 # Recurso Educativo Abierto sobre licencias Creative Commons
 
 Este repositorio contiene el desarrollo de un recurso educativo abierto (REA) orientado a la enseñanza práctica del uso de licencias Creative Commons en el ámbito académico, con especial énfasis en el contexto mexicano y latinoamericano.
