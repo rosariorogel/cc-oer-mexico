@@ -22,3 +22,14 @@ Este material está dirigido principalmente a estudiantes de pregrado y posgrado
 ---
 
 📌 *Nota:* Este sitio forma parte de un proyecto en desarrollo orientado a fortalecer la alfabetización en cultura digital y ciencia abierta en el contexto latinoamericano.
+
+---
+
+## Metadatos del recurso
+
+- **Título:** *El conocimiento en abierto: guía práctica sobre licencias Creative Commons*
+- **Autora:** Rosario Rogel-Salazar
+- **Tipo de recurso:** Recurso educativo abierto
+- **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Año:** 2026
+- **URL:** https://rosariorogel.net/cc-oer-mexico/
