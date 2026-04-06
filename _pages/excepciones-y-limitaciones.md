@@ -43,13 +43,13 @@ Estos usos no dependen de la voluntad de la persona autora, sino de lo que estab
 
 <p style="margin: 5px 0;">
   — <span style="font-style: italic; color:#888; letter-spacing:0.2px;">
-    “Si algo está en internet, se puede usar libremente”
+    Si algo está en internet, se puede usar libremente
   </span>
 </p>
 
 <p style="margin: 5px 0 25px 0;">
   — <span style="font-style: italic; color:#888; letter-spacing:0.2px;">
-    “Si no tiene licencia, no se puede usar”
+    Si no tiene licencia, no se puede usar
   </span>
 </p>
 
