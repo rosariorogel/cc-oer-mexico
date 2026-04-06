@@ -99,5 +99,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-  custom_css:
-  - /assets/css/custom.css
+site-css:
+  - "/assets/css/custom.css"
