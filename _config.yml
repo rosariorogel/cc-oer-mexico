@@ -99,5 +99,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+favicon: "/favicon.ico"
+
 site-css:
   - "/assets/css/custom.css"
+  
