@@ -5,7 +5,7 @@ permalink: /como-elegir-licencia/
 ---
 
 <div style="width:100%; height:140px; overflow:hidden; margin: 0 0 30px 0; border-radius:8px;">
-  <img src="{{ '/assets/img/Friends3.jpeg' | relative_url }}"
+  <img src="{{ '/assets/img/20.png' | relative_url }}"
        alt="Personas colaborando en torno al conocimiento abierto"
        style="width:100%; height:100%; object-fit:cover; object-position:60% 20%;">
 </div>
