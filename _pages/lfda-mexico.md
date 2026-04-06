@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LFDA y contexto mexicano
+title: "Contextualizar el uso de licencias en la Ley Federal del Derecho de Autor (México)"
 permalink: /lfda-mexico/
 ---
 
