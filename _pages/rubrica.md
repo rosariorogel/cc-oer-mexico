@@ -93,3 +93,12 @@ La apertura no se define solo por una licencia, sino por las condiciones reales 
 
 Una buena decisión de licenciamiento no solo protege la autoría.  
 También amplía el alcance del conocimiento.
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
+  <a href="{{ '/casos-practicos/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#eeeeee; color:#444; text-decoration:none; border-radius:8px; font-weight:600;">
+    ← Anterior
+  </a>
+
+  <span></span>
+</div> 
