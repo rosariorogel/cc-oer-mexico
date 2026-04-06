@@ -61,7 +61,7 @@ Si adaptas este recurso, se recomienda:
   <h2 style="margin-bottom:5px;">
     Este recurso también es un ejercicio de reutilización abierta
   </h2>
-  <p style="margin:0; color:#666; font-size:0.95em;">
+  <p style="margin:0; color:#666; font-size:0.95em;">  
     No solo explica las licencias Creative Commons: también aplica sus principios en la práctica.
   </p>
 </div>  
@@ -104,11 +104,9 @@ Si adaptas este recurso, se recomienda:
   </ul>
 
   <p style="margin-bottom:10px;">
-    These materials were adapted and contextualized for educational purposes in the context of social sciences and humanities in Mexico.
-  </p>
+  These materials were adapted and contextualized for educational purposes in the context of social sciences and humanities in Mexico.
+</p>
 
-  <p style="margin:0; font-size:0.9em; color:#555;">
-    This resource not only reuses openly licensed content, but also seeks to model responsible and transparent practices of attribution and reuse.
-  </p>
-
-</div>
+<p style="margin:0;">
+  This resource not only reuses openly licensed content, but also seeks to model responsible and transparent practices of attribution and reuse.
+</p> 
