@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reconocer excepciones y limitaciones al derecho de autor"
-permalink: /excepciones-limitaciones/
+permalink: /excepciones-y-limitaciones/
 ---
 
 <div style="width:100%; height:160px; overflow:hidden; margin: 0 0 30px 0; border-radius:8px;">
