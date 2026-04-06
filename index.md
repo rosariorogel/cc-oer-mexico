@@ -1,11 +1,21 @@
 ---
 layout: home
-title: Recurso Educativo Abierto sobre licencias Creative Commons
-subtitle: Guía práctica para estudiantes de Ciencias Sociales y Humanidades en México
+title: El conocimiento en abierto
+subtitle: Guía práctica sobre licencias Creative Commons para estudiantes de Ciencias Sociales y Humanidades en México
 ---
 
-Este recurso educativo abierto ofrece una guía práctica para comprender las licencias Creative Commons, el modelo de atribución TASL, las excepciones y limitaciones al derecho de autor, y la elección de licencias abiertas en el contexto mexicano.
+Este recurso educativo abierto ofrece una guía clara y contextualizada para comprender el uso de licencias Creative Commons en el trabajo académico.
 
-Está dirigido principalmente a estudiantes de pregrado y posgrado que elaboran tesis, presentaciones, materiales digitales y otros productos académicos.
+A lo largo del sitio encontrarás explicaciones accesibles sobre:
 
-El sitio se encuentra en desarrollo.
+- Qué son las licencias abiertas y cómo funcionan  
+- Cómo atribuir correctamente utilizando el modelo TASL  
+- Qué permiten (y qué no) las excepciones y limitaciones al derecho de autor en México  
+- Cómo elegir una licencia adecuada para tus propios materiales  
+- Ejemplos concretos aplicados a tesis, presentaciones y recursos digitales  
+
+Este material está dirigido principalmente a estudiantes de pregrado y posgrado, así como a personas docentes interesadas en integrar prácticas de acceso abierto en su trabajo.
+
+---
+
+📌 *Nota:* Este sitio forma parte de un proyecto en desarrollo orientado a fortalecer la alfabetización en cultura digital y ciencia abierta en el contexto latinoamericano.
