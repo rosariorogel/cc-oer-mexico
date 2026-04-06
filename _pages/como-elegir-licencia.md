@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cómo elegir una licencia
+title: "Elegir una licencia Creative Commons adecuada"
 permalink: /como-elegir-licencia/
 ---
 

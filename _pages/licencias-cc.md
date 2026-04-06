@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Licencias Creative Commons
+title: "Comprender las licencias Creative Commons"
 permalink: /licencias-cc/
 ---
 

@@ -1,0 +1,25 @@
+/* Navbar naranja estilo Open Access */
+.navbar {
+  background-color: #f47c20 !important;
+  border-bottom: none;
+}
+
+/* Texto del menú */
+.navbar-nav > li > a {
+  color: #ffffff !important;
+}
+
+/* Hover */
+.navbar-nav > li > a:hover {
+  color: #ffe0c2 !important;
+}
+
+/* Título del sitio */
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+/* Botón hamburguesa */
+.navbar-toggle .icon-bar {
+  background-color: #ffffff !important;
+}

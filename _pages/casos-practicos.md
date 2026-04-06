@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Casos prácticos
+title: "Aplicar licencias Creative Commons en casos prácticos"
 permalink: /casos-practicos/
 ---
 

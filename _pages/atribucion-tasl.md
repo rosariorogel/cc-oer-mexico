@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atribución y modelo TASL
+title: "Aprender a atribuir correctamente con el modelo TASL"
 permalink: /atribucion-tasl/
 ---
 
