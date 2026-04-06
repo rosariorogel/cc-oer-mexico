@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Excepciones y limitaciones
+title: "Reconocer excepciones y limitaciones al derecho de autor"
 permalink: /excepciones-y-limitaciones/
 ---
 
