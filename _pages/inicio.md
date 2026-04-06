@@ -37,3 +37,17 @@ A lo largo de este sitio encontrarás explicaciones claras, ejemplos aplicados y
 - Estrategias para crear y compartir tus propios recursos abiertos
 
 Este recurso no solo explica las licencias, sino que busca habilitar su uso en contextos reales de investigación y docencia.
+
+<div style="margin:40px 0 20px 0; padding:15px 18px; border-radius:8px; background-color:#f7f7f7; border:1px solid #ececec;">
+
+  <p style="margin:0; font-size:0.9em; color:#555;">
+    Este recurso se basa parcialmente en contenidos del 
+    <a href="https://creativecommons.org/course/cc-cert-edu/" target="_blank">
+      Creative Commons Certificate
+    </a>, licenciados bajo 
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+      CC BY 4.0
+    </a>, que han sido adaptados y contextualizados para su uso en el ámbito de las Ciencias Sociales y Humanidades en México.
+  </p>
+
+</div> 
