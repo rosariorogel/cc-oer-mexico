@@ -1,23 +1,8 @@
-- title: Inicio
-  url: /inicio/
-
-- title: Licencias CC
-  url: /licencias-cc/
-
-- title: Atribución (TASL)
-  url: /atribucion-tasl/
-
-- title: Excepciones y limitaciones
-  url: /excepciones-y-limitaciones/
-
-- title: LFDA México
-  url: /lfda-mexico/
-
-- title: Casos prácticos
-  url: /casos-practicos/
-
-- title: Elegir licencia
-  url: /como-elegir-licencia/
-
-- title: Rúbrica
-  url: /rubrica/
+Inicio: "inicio"
+Licencias CC: "licencias-cc"
+Atribución TASL: "atribucion-tasl"
+Excepciones y limitaciones: "excepciones-y-limitaciones"
+LFDA México: "lfda-mexico"
+Casos prácticos: "casos-practicos"
+Cómo elegir licencia: "como-elegir-licencia"
+Rúbrica: "rubrica"
