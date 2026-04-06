@@ -89,10 +89,11 @@ Antes de publicar, pregúntate:
 
 ## Cierre
 
-La apertura no se define solo por una licencia, sino por las condiciones reales de uso que habilita.
+Este recurso no solo busca introducir conceptos sobre licencias abiertas, sino acompañar el desarrollo de prácticas responsables en el uso, adaptación y circulación del conocimiento.
 
-Una buena decisión de licenciamiento no solo protege la autoría.  
-También amplía el alcance del conocimiento.
+En ese sentido, más que memorizar definiciones, la invitación es a desarrollar criterios: saber cuándo reutilizar, cómo atribuir y bajo qué condiciones compartir.
+
+Porque en contextos académicos, abrir el conocimiento también implica hacerlo con cuidado, con claridad… y con responsabilidad.  
 
 <div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
   <a href="{{ '/casos-practicos/' | relative_url }}"
