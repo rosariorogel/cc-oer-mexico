@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El conocimiento en abierto: guía práctica sobre licencias Creative Commons
+title: "El conocimiento en abierto: guía práctica sobre licencias Creative Commons"
 permalink: /inicio/
 ---
 
