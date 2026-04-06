@@ -42,11 +42,15 @@ Estos usos no dependen de la voluntad de la persona autora, sino de lo que estab
 </p>
 
 <p style="margin: 5px 0;">
-  — <span style="font-style: italic; color:#777;">“Si algo está en internet, se puede usar libremente”</span>
+  — <span style="font-style: italic; color:#888; letter-spacing:0.2px;">
+    “Si algo está en internet, se puede usar libremente”
+  </span>
 </p>
 
-<p style="margin: 5px 0 20px 0;">
-  — <span style="font-style: italic; color:#777;">“Si no tiene licencia, no se puede usar”</span>
+<p style="margin: 5px 0 25px 0;">
+  — <span style="font-style: italic; color:#888; letter-spacing:0.2px;">
+    “Si no tiene licencia, no se puede usar”
+  </span>
 </p>
 
 Ambas afirmaciones son incorrectas.
