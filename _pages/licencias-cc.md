@@ -88,6 +88,8 @@ Tiene varias opciones:
 
 En la práctica, tomar estas decisiones forma parte de la **alfabetización en derechos de autor y licencias abiertas**.
 
+En muchos casos, la mejor decisión no es la más restrictiva, sino la que mantiene abiertas las posibilidades de uso futuro.
+
 ## Más allá de las licencias: entender el ecosistema
 
 Comprender las licencias Creative Commons también implica reconocer que no operan en el vacío. Forman parte de un ecosistema más amplio que incluye:
