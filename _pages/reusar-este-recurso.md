@@ -56,3 +56,50 @@ Si adaptas este recurso, se recomienda:
 - Conservar la atribución a la versión original
 - Indicar la fecha de tu versión adaptada
 - Mantener visibles las referencias a la licencia aplicable
+
+<div style="margin:50px 0 20px 0; padding:20px; border-radius:10px; background-color:#f9f9f9; border:1px solid #e0e0e0;">
+
+  <h3 style="margin-top:0;">Attribution of course content</h3>
+
+  <p style="margin-bottom:15px;">
+    This resource draws on concepts and materials from the Creative Commons Certificate course.
+  </p>
+
+  <ul style="margin-bottom:15px;">
+    <li>
+      <em>“5Rs of Open Educational Resources”</em><br>
+      <a href="https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-3-finding-and-evaluating-cc-licensed-resources/" target="_blank">
+        https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-3-finding-and-evaluating-cc-licensed-resources/
+      </a><br>
+      by Creative Commons. 
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+    </li>
+
+    <li style="margin-top:10px;">
+      <em>“Creative Commons licenses”</em><br>
+      <a href="https://creativecommons.org/course/cc-cert-edu/unit-2-cc-licenses/" target="_blank">
+        https://creativecommons.org/course/cc-cert-edu/unit-2-cc-licenses/
+      </a><br>
+      by Creative Commons. 
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+    </li>
+
+    <li style="margin-top:10px;">
+      <em>“Attribution (TASL)”</em><br>
+      <a href="https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-1-what-is-attribution/" target="_blank">
+        https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-1-what-is-attribution/
+      </a><br>
+      by Creative Commons. 
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+    </li>
+  </ul>
+
+  <p style="margin-bottom:10px;">
+    These materials were adapted and contextualized for educational purposes in the context of social sciences and humanities in Mexico.
+  </p>
+
+  <p style="margin:0; font-size:0.9em; color:#555;">
+    This resource not only reuses openly licensed content, but also seeks to model responsible and transparent practices of attribution and reuse.
+  </p>
+
+</div>
