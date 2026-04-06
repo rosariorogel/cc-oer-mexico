@@ -1,15 +1,51 @@
-# Repositorio del sitio de Weber
+# Recurso Educativo Abierto sobre licencias Creative Commons
 
-Teoría Social en Web es un proyecto de pedagogía digital desarrollado por Rosario Rogel, profesora de la Licenciatura en Sociología de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
+Este repositorio contiene el desarrollo de un recurso educativo abierto (REA) orientado a la enseñanza práctica del uso de licencias Creative Commons en el ámbito académico, con especial énfasis en el contexto mexicano y latinoamericano.
 
-Desarrollado a partir del projecto Beatutiful Jekyll:
+El sitio está dirigido principalmente a estudiantes de licenciatura y posgrado en Ciencias Sociales y Humanidades, así como a personas docentes interesadas en integrar prácticas de acceso abierto en la producción y difusión del conocimiento.
 
-#### Beautiful Jekyll
+## Contenidos del recurso
 
-[![xscode](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=)](https://xscode.com/daattali/beautiful-jekyll)
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+El REA aborda, de manera progresiva y aplicada:
 
-> By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
+- Principios básicos de las licencias Creative Commons  
+- Uso correcto de la atribución mediante el modelo TASL  
+- Excepciones y limitaciones al derecho de autor  
+- Consideraciones específicas de la Ley Federal del Derecho de Autor (México)  
+- Casos prácticos en contextos académicos  
+- Estrategias para elegir licencias abiertas  
 
-**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
+## Enfoque pedagógico
 
+El recurso está diseñado bajo un enfoque práctico, con ejemplos concretos y situaciones reales del trabajo académico, con el objetivo de fortalecer la alfabetización en cultura digital, propiedad intelectual y ciencia abierta.
+
+Se privilegia la claridad conceptual, la aplicabilidad y la contextualización en entornos universitarios latinoamericanos.
+
+## Desarrollo del proyecto
+
+Este sitio ha sido desarrollado utilizando Jekyll y el tema Beautiful Jekyll.
+
+## Licencia
+
+Este recurso se distribuye bajo una licencia Creative Commons Attribution 4.0 International (CC BY 4.0), salvo que se indique lo contrario en contenidos específicos.
+
+## Attribution of course content
+
+This project draws on concepts and materials from the Creative Commons Certificate course.
+
+In particular:
+
+“5Rs of Open Educational Resources”  
+https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-3-finding-and-evaluating-cc-licensed-resources/  
+by Creative Commons. CC BY 4.0.
+
+## Autoría
+
+Rosario Rogel-Salazar  
+Profesora-Investigadora  
+Facultad de Ciencias Políticas y Sociales  
+Universidad Autónoma del Estado de México
+
+## Enlace al sitio
+
+https://rosariorogel.net/cc-oer-mexico/
