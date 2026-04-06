@@ -119,3 +119,15 @@ Implica considerar:
 Las licencias Creative Commons no son etiquetas decorativas.
 
 Son herramientas que definen cómo circula el conocimiento.
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
+  <a href="{{ '/como-elegir-licencia/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#eeeeee; color:#444; text-decoration:none; border-radius:8px; font-weight:600;">
+    ← Anterior
+  </a>
+
+  <a href="{{ '/rubrica/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#f47c20; color:white; text-decoration:none; border-radius:8px; font-weight:600;">
+    Siguiente →
+  </a>
+</div> 
