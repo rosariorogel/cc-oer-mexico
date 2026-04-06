@@ -4,6 +4,12 @@ title: "Aprender a atribuir correctamente con el modelo TASL"
 permalink: /atribucion-tasl/
 ---
 
+<div style="width:100%; height:260px; overflow:hidden; margin: 0 0 40px 0; border-radius:12px;">
+  <img src="{{ '/assets/img/Rob_Library.png' | relative_url }}"
+       alt="Atribución TASL en recursos educativos abiertos"
+       style="width:100%; height:100%; object-fit:cover; object-position:center 55%;">
+</div>
+
 Las licencias Creative Commons no operan automáticamente: requieren una práctica concreta para funcionar adecuadamente. Esa práctica es la **atribución**.
 
 Atribuir no es solo “poner una referencia”. Es una forma de reconocer la autoría, hacer trazable el origen de los materiales y sostener la circulación del conocimiento en abierto.
@@ -18,18 +24,6 @@ El modelo **TASL** ofrece una guía sencilla para construir atribuciones complet
 - **L (License / Licencia):** tipo de licencia y enlace  
 
 Una atribución adecuada permite que otras personas no solo reconozcan el origen del material, sino que también comprendan **cómo pueden reutilizarlo**.
-
-## Un ejemplo visual
-
-<div style="text-align:center; margin: 30px 0;">
-  <img src="{{ '/assets/img/Rob_Notes.jpeg' | relative_url }}"
-       alt="Notas sobre atribución y aprendizaje del modelo TASL"
-       style="width:60%; max-width:500px; display:block; margin:auto; border-radius:8px;">
-</div>
-
-<p style="text-align:center; font-size:0.9em; color:#666; margin-bottom:30px;">
-  Notas de trabajo sobre atribución y licenciamiento elaboradas durante el Creative Commons Certificate.
-</p>
 
 ## Un aprendizaje importante: cuando atribuir no es suficiente
 
