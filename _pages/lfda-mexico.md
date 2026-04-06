@@ -106,3 +106,15 @@ En el contexto mexicano, la ciencia abierta no se construye fuera de la ley, sin
 Adoptar licencias abiertas no significa abandonar el derecho de autor.
 
 Significa usarlo estratégicamente.
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
+  <a href="{{ '/excepciones-y-limitaciones/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#eeeeee; color:#444; text-decoration:none; border-radius:8px; font-weight:600;">
+    ← Anterior
+  </a>
+
+  <a href="{{ '/como-elegir-licencia/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#f47c20; color:white; text-decoration:none; border-radius:8px; font-weight:600;">
+    Siguiente →
+  </a>
+</div>  
