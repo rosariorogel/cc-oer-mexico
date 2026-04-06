@@ -37,9 +37,17 @@ Estos usos no dependen de la voluntad de la persona autora, sino de lo que estab
 
 ## Un error frecuente
 
-Uno de los malentendidos más comunes es pensar que: > “Si algo está en internet, se puede usar libremente”
+<p style="margin: 20px 0;">
+  Uno de los malentendidos más comunes es pensar que:
+</p>
 
-O incluso: > “Si no tiene licencia, no se puede usar”
+<p style="margin: 5px 0;">
+  — <span style="font-style: italic; color:#777;">“Si algo está en internet, se puede usar libremente”</span>
+</p>
+
+<p style="margin: 5px 0 20px 0;">
+  — <span style="font-style: italic; color:#777;">“Si no tiene licencia, no se puede usar”</span>
+</p>
 
 Ambas afirmaciones son incorrectas.
 
