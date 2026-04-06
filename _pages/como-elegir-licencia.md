@@ -4,10 +4,10 @@ title: "Elegir una licencia Creative Commons adecuada"
 permalink: /como-elegir-licencia/
 ---
 
-<div style="width:100%; height:140px; overflow:hidden; margin: 0 0 30px 0; border-radius:8px;">
+<div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; margin: 0 0 40px 0; border-radius:12px; background-color:#f5f5f5;">
   <img src="{{ '/assets/img/20.png' | relative_url }}"
        alt="Personas colaborando en torno al conocimiento abierto"
-       style="width:100%; height:100%; object-fit:cover; object-position:60% 20%;">
+       style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
 
 Elegir una licencia Creative Commons no consiste únicamente en seleccionar un ícono o una combinación de letras. Implica tomar una decisión sobre **cómo quieres que circule tu trabajo**, qué usos deseas facilitar y cuáles condiciones consideras importantes para compartirlo de manera abierta y responsable.
