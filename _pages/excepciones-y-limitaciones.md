@@ -97,3 +97,15 @@ Las excepciones y limitaciones no son “huecos” en el sistema de derechos de 
 Son parte del equilibrio entre protección y acceso.
 
 Saber reconocerlas es tan importante como saber elegir una licencia.
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
+  <a href="{{ '/atribucion-tasl/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#eeeeee; color:#444; text-decoration:none; border-radius:8px; font-weight:600;">
+    ← Anterior
+  </a>
+
+  <a href="{{ '/lfda-mexico/' | relative_url }}"
+     style="display:inline-block; padding:12px 22px; background-color:#f47c20; color:white; text-decoration:none; border-radius:8px; font-weight:600;">
+    Siguiente →
+  </a>
+</div>
