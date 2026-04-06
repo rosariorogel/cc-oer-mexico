@@ -4,10 +4,10 @@ title: "Reconocer excepciones y limitaciones al derecho de autor"
 permalink: /excepciones-y-limitaciones/
 ---
 
-<div style="width:100%; height:160px; overflow:hidden; margin: 0 0 30px 0; border-radius:8px;">
+<div style="width:100%; height:200px; overflow:hidden; margin: 0 0 35px 0; border-radius:10px;">
   <img src="{{ '/assets/img/Rob_Library.jpeg' | relative_url }}"
        alt="Biblioteca y circulación del conocimiento"
-       style="width:100%; height:100%; object-fit:cover; object-position:center center;">
+       style="width:100%; height:100%; object-fit:cover; object-position:center 30%;">
 </div>
 
 Las licencias Creative Commons son una herramienta poderosa… pero no son la única vía para utilizar obras de forma legal.
