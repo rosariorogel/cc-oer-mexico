@@ -24,6 +24,20 @@ Es importante no confundir dos cosas:
 En otras palabras:  
 no todo lo que se puede usar legalmente está bajo licencia Creative Commons.
 
+## Una precisión importante: México no opera bajo “fair use”
+
+En debates sobre derecho de autor en internet, es frecuente encontrar referencias al concepto de **fair use**. Sin embargo, conviene subrayar que **ese concepto pertenece al marco jurídico de Estados Unidos** y no debe trasladarse automáticamente al contexto mexicano.
+
+En México, la lógica jurídica es distinta: la **Ley Federal del Derecho de Autor (LFDA)** no se basa en una cláusula abierta como el fair use, sino en **supuestos específicos de excepción y limitación previstos por la ley**.
+
+Esto tiene una consecuencia práctica importante:
+
+- En el contexto estadounidense, ciertas reutilizaciones pueden analizarse caso por caso bajo criterios flexibles;  
+- En México, la pregunta central suele ser si el uso está o no contemplado dentro de las excepciones expresamente reconocidas por la LFDA.
+
+Dicho de otro modo:  
+no basta con pensar que un uso “parece razonable” o “parece educativo”. En el contexto mexicano, conviene identificar **qué permite exactamente la ley** y no asumir equivalencias automáticas con otros sistemas jurídicos.  
+
 ## ¿Cuándo se puede usar una obra sin licencia?
 
 Algunos casos comunes incluyen:
