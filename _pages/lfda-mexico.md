@@ -31,8 +31,7 @@ Esto significa que:
 - Operan dentro de sus límites  
 - Y deben interpretarse en función de ella  
 
-En otras palabras:  
-las licencias no anulan la ley —la presuponen.
+En otras palabras, las licencias no anulan la ley —la presuponen.
 
 ## ¿Qué regula la LFDA?
 
@@ -49,12 +48,8 @@ Este último punto conecta directamente con las **excepciones y limitaciones** v
 
 Una distinción central en la legislación mexicana es la siguiente:
 
-- **Derechos morales:**  
-  reconocen el vínculo entre la persona autora y su obra  
-  (por ejemplo, el derecho a ser reconocida como autora)
-
-- **Derechos patrimoniales:**  
-  permiten autorizar o prohibir el uso, reproducción o distribución  
+- **Derechos morales:** reconocen el vínculo entre la persona autora y su obra (por ejemplo, el derecho a ser reconocida como autora)
+- **Derechos patrimoniales:** permiten autorizar o prohibir el uso, reproducción o distribución  
 
 Las licencias Creative Commons operan principalmente sobre los **derechos patrimoniales**, no sobre los morales.
 
@@ -66,16 +61,14 @@ En México, los derechos morales son:
 - **Inalienables**  
 - **Perpetuos**  
 
-Esto implica que, incluso cuando una obra tiene una licencia abierta:
+Esto implica que, incluso cuando una obra tenga una licencia abierta:
 
 👉 La atribución sigue siendo obligatoria  
 👉 No es una “opción”, es una exigencia legal  
 
 ## Un error frecuente
 
-A veces se asume que aplicar una licencia Creative Commons significa “liberar completamente” una obra.
-
-Sin embargo:
+A veces se asume que aplicar una licencia Creative Commons significa “liberar completamente” una obra. Sin embargo:
 
 > Ninguna licencia elimina los derechos morales  
 > Ni permite usos que la ley no contempla  
@@ -103,9 +96,7 @@ En el contexto mexicano, la ciencia abierta no se construye fuera de la ley, sin
 
 ## Una idea para cerrar
 
-Adoptar licencias abiertas no significa abandonar el derecho de autor.
-
-Significa usarlo estratégicamente.
+Adoptar licencias abiertas no significa abandonar el derecho de autor. Significa usarlo estratégicamente.
 
 <div style="display:flex; justify-content:space-between; align-items:center; margin: 50px 0 20px 0; gap:20px; flex-wrap:wrap;">
   <a href="{{ '/excepciones-y-limitaciones/' | relative_url }}"
