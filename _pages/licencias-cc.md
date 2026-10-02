@@ -108,7 +108,7 @@ Comprender las licencias Creative Commons también implica reconocer que no oper
 - Las excepciones y limitaciones (como la cita o la reproducción de partes para crítica e investigación)  
 - El dominio público  
 
-Por ejemplo, no todo uso requiere licencia: existen situaciones en las que la ley permite reutilizar materiales sin autorización, especialmente en contextos académicos. Ignorar esto puede llevar a restringir innecesariamente el uso del conocimiento.
+Por ejemplo, no todo uso requiere licencia: existen situaciones en las que la ley permite reutilizar materiales sin autorización, en los supuestos específicos que la ley enumera. Ignorar esto puede llevar a restringir innecesariamente el uso del conocimiento.
 
 ## Un recurso visual para entender mejor
 
