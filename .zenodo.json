@@ -1,0 +1,20 @@
+{
+  "title": "El conocimiento en abierto: guía práctica sobre licencias Creative Commons",
+  "upload_type": "lesson",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Rogel-Salazar, Rosario",
+      "affiliation": "Universidad Autónoma del Estado de México"
+    }
+  ],
+  "language": "spa",
+  "keywords": [
+    "Creative Commons",
+    "recursos educativos abiertos",
+    "licencias abiertas",
+    "derecho de autor",
+    "México"
+  ],
+  "notes": "Contenidos educativos bajo CC BY 4.0 (véase LICENSE). El código del sitio se basa en la plantilla Beautiful Jekyll, de Dean Attali, bajo licencia MIT (véase LICENSE-CODE). Incluye contenidos adaptados del Creative Commons Certificate (CC BY 4.0)."
+}
