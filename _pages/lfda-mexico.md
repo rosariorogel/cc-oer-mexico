@@ -18,7 +18,7 @@ En México, el uso y protección de las obras está regulado por la **Ley Federa
   Consulta la ley vigente: 
   <a href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf" target="_blank" rel="noopener noreferrer">
     Ley Federal del Derecho de Autor (México)
-  </a>. Última reforma publicada en el Diario Oficial de la Federación: <strong>15 de enero de 2026</strong>.
+  </a>. Última reforma publicada en el Diario Oficial de la Federación: <strong>14 de mayo de 2026</strong>.
 </p>
 
 ## ¿Por qué importa el contexto legal?
