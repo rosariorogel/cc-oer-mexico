@@ -38,9 +38,9 @@ Las licencias Creative Commons emergen precisamente para resolver esta tensión:
 Todas las licencias Creative Commons se construyen a partir de cuatro condiciones:
 
 - **BY (Atribución):** obliga a reconocer la autoría  
-- **SA (Compartir Igual):** exige mantener la misma licencia en adaptaciones  
-- **NC (No Comercial):** limita usos comerciales  
-- **ND (Sin Derivadas):** impide modificaciones  
+- **SA (CompartirIgual):** exige mantener la misma licencia en adaptaciones  
+- **NC (NoComercial):** limita usos comerciales  
+- **ND (SinDerivadas):** impide modificaciones  
 
 A partir de estas combinaciones surgen seis licencias, que van de más abiertas a más restrictivas.
 
@@ -105,7 +105,7 @@ En muchos casos, la mejor decisión no es la más restrictiva, sino la que manti
 Comprender las licencias Creative Commons también implica reconocer que no operan en el vacío. Forman parte de un ecosistema más amplio que incluye:
 
 - El derecho de autor  
-- Las excepciones y limitaciones (como el uso educativo o la cita)  
+- Las excepciones y limitaciones (como la cita o la reproducción de partes para crítica e investigación)  
 - El dominio público  
 
 Por ejemplo, no todo uso requiere licencia: existen situaciones en las que la ley permite reutilizar materiales sin autorización, especialmente en contextos académicos. Ignorar esto puede llevar a restringir innecesariamente el uso del conocimiento.
