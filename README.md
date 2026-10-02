@@ -31,7 +31,9 @@ Este sitio ha sido desarrollado utilizando Jekyll y el tema Beautiful Jekyll.
 
 ## Licencia
 
-Este recurso se distribuye bajo una licencia Creative Commons Attribution 4.0 International (CC BY 4.0), salvo que se indique lo contrario en contenidos específicos.
+Salvo indicación contraria en contenidos específicos, los contenidos de este recurso se distribuyen bajo licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0). Véase `LICENSE`.
+
+El código del sitio se basa en la plantilla Beautiful Jekyll, de Dean Attali, distribuida bajo licencia MIT. Véase `LICENSE-CODE`.
 
 ## Attribution of course content
 
