@@ -40,18 +40,18 @@ no basta con pensar que un uso “parece razonable” o “parece educativo”. 
 
 ## ¿Cuándo se puede usar una obra sin licencia?
 
-La LFDA enumera supuestos específicos en los que una obra puede usarse sin autorización (art. 148), siempre que se cite la fuente y no se altere la obra. Entre ellos:
+La LFDA enumera supuestos específicos en los que una obra ya divulgada puede usarse sin autorización, siempre que no se afecte su explotación normal, se cite invariablemente la fuente y no se altere la obra (art. 148). Entre ellos:
 
-- **Cita:** de fragmentos de textos, siempre que no equivalgan a una reproducción sustancial de la obra.
-- **Crítica e investigación:** reproducción de partes de una obra para la crítica e investigación científica, literaria o artística.
-- **Copia privada:** una sola copia para uso personal, sin fines de lucro.
+- **Cita:** de fragmentos de textos, siempre que no equivalgan a una reproducción sustancial de la obra (fr. I).
+- **Crítica e investigación:** reproducción de partes de una obra para la crítica e investigación científica, literaria o artística (fr. III).
+- **Copia privada:** una sola copia para uso personal y sin fines de lucro; las instituciones educativas y de investigación también pueden valerse de este supuesto (fr. IV).
 
 Además, hay materiales que no requieren licencia porque no están protegidos o ya no lo están:
 
-- **Textos oficiales:** textos legislativos, reglamentarios, administrativos o judiciales (art. 14).
-- **Dominio público:** obras cuyos derechos patrimoniales han expirado.
+- **Textos oficiales:** textos legislativos, reglamentarios, administrativos o judiciales (art. 14, fr. VIII).
+- **Dominio público:** obras cuyos derechos patrimoniales han expirado (art. 152).
 
-La LFDA no contempla una excepción general por "uso educativo". Que un material se use en clase no vuelve lícito su uso por sí mismo: hay que ubicarlo en alguno de los supuestos que la ley enumera.
+La LFDA no contempla una excepción general por "uso educativo" para las obras. La enseñanza aparece como excepción solo para los derechos conexos de intérpretes, productores y organismos de radiodifusión (art. 151, fr. III). Que un material se use en clase no vuelve lícito su uso por sí mismo: hay que ubicarlo en alguno de los supuestos que la ley enumera.
 
 ## Un error frecuente
 
