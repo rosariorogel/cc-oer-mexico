@@ -40,7 +40,7 @@ Todas las licencias Creative Commons se construyen a partir de cuatro condicione
 - **BY (Atribución):** obliga a reconocer la autoría  
 - **SA (CompartirIgual):** exige mantener la misma licencia en adaptaciones  
 - **NC (NoComercial):** limita usos comerciales  
-- **ND (SinDerivadas):** impide modificaciones  
+- **ND (SinDerivadas):** impide compartir versiones modificadas  
 
 A partir de estas combinaciones surgen seis licencias, que van de más abiertas a más restrictivas.
 
