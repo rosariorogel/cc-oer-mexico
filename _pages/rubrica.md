@@ -20,62 +20,87 @@ Lee cada criterio y ubica tu recurso en el nivel que mejor lo describa.
 No se trata de “aprobar”, sino de identificar oportunidades de mejora.
 
 ---
-
 ## Rúbrica de autoevaluación
+
+Los niveles indican cuánto facilita cada decisión que otras personas adapten y reutilicen el recurso. No califican las licencias como correctas o incorrectas: una condición restrictiva puede tener buenas razones, siempre que se elija de manera informada y explícita.
 
 ### 1. Claridad de la licencia
 
 - 🔴 No se indica ninguna licencia  
-- 🟡 La licencia está indicada, pero no es visible o clara  
-- 🟢 La licencia está claramente indicada (con enlace y tipo CC)
+- 🟡 La licencia está indicada, pero sin versión, sin enlace o en un lugar poco visible  
+- 🟢 El nombre de la licencia, su versión y el enlace están visibles en el recurso
+
+*¿Por qué importa?* Solo se puede reutilizar con confianza lo que tiene permisos identificables. La versión importa porque las condiciones SinDerivadas y CompartirIgual no funcionan igual en todas las versiones.
 
 ---
 
-### 2. Nivel de apertura
+### 2. Adaptación (SinDerivadas, ND)
 
-- 🔴 Licencias restrictivas (ND o combinaciones que limitan adaptación)  
-- 🟡 Licencias abiertas pero con restricciones (NC o SA sin justificación clara)  
-- 🟢 Licencias abiertas que permiten reutilización amplia (ej. CC BY)
+- 🔴 Licencia ND: las adaptaciones no pueden compartirse (versión 4.0) o no están autorizadas (versiones anteriores)  
+- 🟡 La adaptación se permite solo para algunos componentes, o los permisos no son claros  
+- 🟢 La licencia permite compartir adaptaciones (BY, BY-SA, BY-NC, BY-NC-SA)
+
+*¿Por qué importa?* Traducir y contextualizar son formas de adaptación. En materiales educativos, ND impide revisar y remezclar, que son precisamente las prácticas que definen a los REA.
 
 ---
 
-### 3. Atribución (TASL)
+### 3. Uso comercial (NoComercial, NC)
+
+- 🔴 NC aplicada por defecto, sin indicar qué usos excluye  
+- 🟡 NC con una razón explícita, pero con alcance poco claro (por ejemplo, ¿puede usarla una universidad privada?)  
+- 🟢 Sin NC, o NC con una razón explícita y ejemplos de usos permitidos y excluidos
+
+*¿Por qué importa?* NC restringe los usos orientados principalmente a obtener una ventaja comercial. Sus límites requieren interpretación, por lo que explicar la decisión ayuda a quien quiere reutilizar el recurso.
+
+---
+
+### 4. CompartirIgual (SA)
+
+- 🔴 SA aplicada sin advertir que las adaptaciones deben llevar la misma licencia o una compatible  
+- 🟡 SA aplicada deliberadamente, pero sin considerar su compatibilidad con otros materiales  
+- 🟢 Sin SA, o SA aplicada deliberadamente, con una nota sobre la licencia que deben llevar las adaptaciones
+
+*¿Por qué importa?* SA mantiene abiertas las adaptaciones, pero limita la posibilidad de combinarlas con materiales bajo licencias incompatibles.
+
+---
+
+### 5. Atribución (TASL)
 
 - 🔴 No se incluyen atribuciones  
 - 🟡 Atribuciones incompletas o inconsistentes  
 - 🟢 Atribuciones completas (Título, Autoría, Fuente, Licencia)
 
----
-
-### 4. Posibilidad de adaptación (5R)
-
-- 🔴 El recurso no puede ser modificado  
-- 🟡 Puede modificarse, pero con limitaciones  
-- 🟢 Permite revisar, remezclar y adaptar sin barreras
+*¿Por qué importa?* Todas las licencias Creative Commons exigen atribución, y una atribución completa hace rastreable la reutilización.
 
 ---
 
-### 5. Accesibilidad y formato
+### 6. Accesibilidad y formato
 
-- 🔴 Formato cerrado o difícil de reutilizar (ej. PDF bloqueado)  
-- 🟡 Formato accesible pero no editable fácilmente  
-- 🟢 Formato abierto y editable (web, documentos reutilizables)
+- 🔴 Formato cerrado o difícil de reutilizar (por ejemplo, un PDF bloqueado)  
+- 🟡 Formato accesible, pero no fácilmente editable  
+- 🟢 Formato abierto y editable (web, documentos reutilizables, archivos fuente disponibles)
+
+*¿Por qué importa?* El permiso para adaptar sirve de poco si no se tiene acceso a archivos que puedan editarse.
 
 ---
 
-### 6. Contexto de uso
+### 7. Contexto de uso
 
-- 🔴 No se especifica cómo usar el recurso  
-- 🟡 Se sugiere uso, pero de forma limitada  
+- 🔴 No se indica cómo usar el recurso  
+- 🟡 Se sugiere un uso, pero de forma limitada  
 - 🟢 Se invita explícitamente a reutilizar, adaptar y compartir
+
+*¿Por qué importa?* Una invitación explícita reduce la incertidumbre de quien quiere reutilizar el recurso.
 
 ---
 
 ## Interpretación rápida
 
 - Mayoría 🔴 → el recurso es cerrado o poco reutilizable  
-- Mayoría 🟡 → hay apertura parcial, pero con barreras  
-- Mayoría 🟢 → el recurso está alineado con principios de REA  
+- Mayoría 🟡 → hay apertura parcial, pero con barreras o decisiones sin explicar  
+- Mayoría 🟢 → el recurso está alineado con los principios de los REA  
+
+Un 🔴 o un 🟡 en los criterios 2 a 4 no es necesariamente un error: puede reflejar una decisión con razones. Lo importante es que la decisión sea explícita y que quede claro qué permite y qué impide.
 
 ---
 
@@ -102,4 +127,4 @@ Porque en contextos académicos, abrir el conocimiento también implica hacerlo 
   </a>
 
   <span></span>
-</div> 
+</div>
